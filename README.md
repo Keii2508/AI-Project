@@ -1,0 +1,1 @@
+Project ini merupakan implementasi sistem rekomendasi content-based filtering yang menggunakan kombinasi TF-IDF (Term Frequency-Inverse Document Frequency) untuk representasi teks dan K-Nearest Neighbors (K-NN) untuk mencari item yang paling mirip berdasarkan konten.
